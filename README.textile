@@ -12,6 +12,6 @@ bc. /************************************************************************\
 
 h1. Euler
 
-Solutions to "Project Euler":http:projecteuler.net problems as developed by Dusan Kysel.
+Solutions to "Project Euler":http://projecteuler.net problems as developed by Dusan Kysel.
 
-You can compile and run the solutions with "sbt":http:www.scala-sbt.org as well as with the provided bash *run* script.
+You can compile and run the solutions with "sbt":http://www.scala-sbt.org as well as with the provided bash *run* script.
