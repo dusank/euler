@@ -1,0 +1,1 @@
+scala -classpath target/scala*/classes Euler$1
