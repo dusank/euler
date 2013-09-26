@@ -1,0 +1,17 @@
+bc. /************************************************************************\
+** Project ____   __  __   __     ____    ______                        **
+**        / __/  / / / /  / /    / __/   / __  /      (c) 2013          **
+**       / /_   / / / /  / /    / /_    / /_/ /                         **
+**      / __/  / / / /  / /    / __/   / __  /   Dusan.Kysel@gmail.com  **
+**     / /__  / /_/ /  / /__  / /__   / / | |                           **
+**    /____/ /_____/  /____/ /____/  /_/  |_|     All rights reserved.  **
+**                                                                      **
+**  Redistribution and use permitted under the BSD 2-Clause license.    **
+**                                                                      **
+\************************************************************************/
+
+h1. Euler
+
+Solutions to "Project Euler":http:projecteuler.net problems as developed by Dusan Kysel.
+
+You can compile and run the solutions with "sbt":http:www.scala-sbt.org as well as with the provided bash *run* script.
